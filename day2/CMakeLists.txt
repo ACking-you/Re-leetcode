@@ -1,3 +1,7 @@
 add_executable(lc322 lc322-零钱问题-完全背包.cpp)
 add_executable(lc518 lc518-零钱问题II-完全背包.cpp)
 add_executable(lc89 lc89-房屋偷盗-动态规划.cpp)
+add_executable(lc90 lc90-房屋偷盗环形-动态规划.cpp)
+add_executable(lc41 lc41-缺失的第一个正数：考察kv映射.cpp)
+add_executable(lc324 lc324-摆动排序：根据排序划分数据.cpp)
+add_executable(lc239 lc239-滑动窗口的最大值：单调队列.cpp)

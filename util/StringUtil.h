@@ -114,7 +114,7 @@ public:
         return output;
     }
 
-    static std::string integerVectorToString(std::vector<int> list, int length = -1) {
+    static std::string integerVectorToString(std::vector<int>const& list, int length = -1) {
         if (length == -1) {
             length = list.size();
         }
